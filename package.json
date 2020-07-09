@@ -1,0 +1,17 @@
+{
+  "name": "Calculator",
+  "version": "0.1.0",
+  "description": "Personal Payment Solution",
+  "main": "app.js",
+  "engines": {
+    "node": ">= 10"
+  },
+  "dependencies": {
+    "wechaty": "^0.41.31"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "gm": "^1.23.1",
+    "qrcode-terminal": "*"
+  }
+}
